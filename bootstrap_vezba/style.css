@@ -1,0 +1,21 @@
+body{
+background: #989799;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+legend{
+  text-align: center;
+}
+.prvo{
+  color: #000000;
+}
+.drugo{
+  color: #000000;
+}
